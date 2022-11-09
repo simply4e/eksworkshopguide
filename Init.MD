@@ -15,7 +15,7 @@
 ![new terminal](screenshots/1-cluster-terminal.png)
 
 ```bash
-git clone https://github.com/FrankieCheng/eksworkshopguide
+git clone https://github.com/simply4e/eksworkshopguide
 chmod +755 eksworkshopguide/*.sh
 . eksworkshopguide/eks-workshop-create-cluster.sh
 
